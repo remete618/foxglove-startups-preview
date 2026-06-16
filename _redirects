@@ -1,0 +1,75 @@
+# Redirects for Cloudflare Workers static assets.
+# Format: /source /destination 301
+
+/activate https://app.foxglove.dev/activate 301
+/blog/analyzing-foxglove-data-in-a-jupyter-notebook-live-demo /events/analyzing-foxglove-data-in-a-jupyter-notebook-live-demo 301
+/blog/announcing-data-loader-public-beta /blog/announcing-data-loaders 301
+/blog/announcing-foxglove-data-platform-events /blog/announcing-foxglove-events 301
+/blog/announcing-foxglove-studios-new-3d-panel /blog/announcing-foxgloves-new-3d-panel 301
+/blog/announcing-insights-for-foxglove-data-platform https://docs.foxglove.dev/docs/settings 301
+/blog/announcing-message-converter-extensions-in-foxglove-studio /blog/announcing-message-converter-extensions-in-foxglove 301
+/blog/announcing-the-team-trial-for-new-foxglove-users /pricing 301
+/blog/creating-reactive-plots-in-foxglove /events/creating-a-reactive-plot-live-demo 301
+/blog/foxglove-agent-live-demo /events/foxglove-agent-live-demo 301
+/blog/foxglove-launch-week-fall-2022 /blog/foxgloves-15m-series-a-and-the-missing-data-stack-for-robotics 301
+/blog/foxglove-raises-seed-funding-3.7M /blog/foxglove-raises-seed-funding-3-7m 301
+/blog/foxglove-studio-vs-rviz /blog/foxglove-vs-rviz 301
+/blog/foxglove-studio-vs-webviz https://foxglove.dev/blog/foxglove-vs-webviz 301
+/blog/how-foxglove-and-polymath-robotics-simplify-fleet-management /events/how-foxglove-and-polymath-simplify-fleet-management 301
+/blog/improving-how-foxglove-studio-loads-data /blog/improving-how-foxglove-loads-data 301
+/blog/introducing-foxglove-studio /blog/introducing-foxglove 301
+/blog/introducing-foxglove-studios-new-navigation /blog/foxglove-2-0-unifying-robotics-observability 301
+/blog/introducing-text-annotations-in-foxglove-image-panel /blog/introducing-text-annotations-in-foxgloves-image-panel 301
+/blog/introducing-text-annotations-in-foxglove-studios-image-panel /blog/introducing-text-annotations-in-foxgloves-image-panel 301
+/blog/nvidia-announces-mcap-as-the-default-logging-format-for-isaac-ros-3.0 /blog/nvidia-announces-mcap-as-the-default-logging-format-for-isaac-ros-3-0 301
+/blog/reducing-storage-pricing-for-the-foxglove-team-plan https://foxglove.dev/pricing 301
+/blog/spotlight-ryan-govostes-software-engineer-at-WHOI /blog/spotlight-ryan-govostes-software-engineer-at-whoi 301
+/blog/streaming-data-from-your-iphone-to-foxglove-studio /blog/streaming-data-from-your-iphone-to-foxglove 301
+/blog/the-building-blocks-of-ros /blog/the-building-blocks-of-ros1 301
+/blog/try-foxglove-studios-new-beta-3d-panel /blog/announcing-foxgloves-new-3d-panel 301
+/blog/using-ros-diagnostics-in-robotics-operations-tutorial /blog/a-practical-guide-to-using-ros-diagnostics 301
+/blog/visualizing-nuscenes-with-foxglove-studio /blog/visualizing-nuscenes-data-with-foxglove-studio 301
+/chat https://discord.gg/vUVAdFmMFM 301
+/community https://discord.gg/vUVAdFmMFM 301
+/customer-stories /customers 301
+/customer-stories/ /customers 301
+/customer-stories/* /customers/:splat 301
+/data-platform /product 301
+/docs https://docs.foxglove.dev/docs 301
+/docs/* https://docs.foxglove.dev/docs/:splat 301
+/downloads /download 301
+/homepage /home 301
+/ios /blog/streaming-data-from-your-iphone-to-foxglove 301
+/jobs /careers 301
+/legal /legal/terms 301
+/legal/msa /legal/terms 301
+/legal/studio-license /legal/terms 301
+/legal/subprocessor-changes https://groups.google.com/g/foxglove-subprocessor-changes/about 301
+/mcap https://mcap.dev 301
+/product/connecting-to-data /product/agent 301
+/proposition-guide /why-foxglove/proposition-guide 301
+/robot-instructions /downloads/LEGO-robot-v2.pdf 301
+/ros /robotics/ros 301
+/rosbridge /robotics/rosbridge 301
+/signin https://app.foxglove.dev/signin 301
+/signup https://app.foxglove.dev/signup 301
+/slack https://discord.gg/vUVAdFmMFM 301
+/solutions/autonomous-driving /solutions/automotive 301
+/solutions/defence /solutions/defense-and-aerospace 301
+/solutions/defense /solutions/defense-and-aerospace 301
+/solutions/healthcare /solutions/health-and-wellbeing 301
+/solutions/maritime /solutions/marine 301
+/studio /product/visualization 301
+/support /contact 301
+/translate https://crowdin.com/project/foxglove 301
+/tutorials /blog/tag/tutorial 301
+/tutorials/installing-ros1-on-ubuntu /blog/installing-ros1-noetic-on-ubuntu 301
+/urdf /robotics/urdf 301
+
+# strip trailing slash
+/blog/*/ /blog/:splat 301
+
+# strip html extensions
+/index / 301
+/index.html / 301
+/*.html /:splat 301

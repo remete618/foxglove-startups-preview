@@ -1,0 +1,112 @@
+# Foxglove
+
+> Foxglove is an open-source observability platform for robotics that lets engineers visualize, debug, and collaborate on robot data including ROS 1, ROS 2, MCAP, Protobuf, and custom formats — through a web-based and desktop application.
+
+## About
+
+- [Homepage](https://foxglove.dev): Product overview, customer stories, and platform capabilities
+- [About](https://foxglove.dev/about): Company background and team
+- [Why Foxglove](https://foxglove.dev/why-foxglove): Value proposition and competitive differentiation
+- [Proposition Guide](https://foxglove.dev/why-foxglove/proposition-guide): Detailed positioning and use cases
+- [Security](https://foxglove.dev/security): SOC 2 Type II certified, GDPR compliant, AES 256-bit encryption
+- [Careers](https://foxglove.dev/careers): Open positions
+- [Contact](https://foxglove.dev/contact): Get in touch
+- [Get a Demo](https://foxglove.dev/demo): Schedule a product demo
+
+## Product
+
+- [Product Overview](https://foxglove.dev/product): Core platform features — visualization, data management, analysis, extensibility
+- [Visualization](https://foxglove.dev/product/visualization): 20+ customizable panels for point clouds, images, plots, maps, 3D scenes, and more
+- [Data Management](https://foxglove.dev/product/data-management): Recording, ingestion, indexing, and retention for robotics data
+- [Analysis](https://foxglove.dev/product/analysis): Search, replay, and debug recorded robot data
+- [Foxglove Agent](https://foxglove.dev/product/agent): On-robot agent for data collection, upload, and remote monitoring
+- [MCAP](https://foxglove.dev/product/mcap): Open-source container file format for multimodal robotics data
+- [Extensibility](https://foxglove.dev/product/extensibility): Custom panels, message converters, topic aliases, and layout sharing
+- [Integrations](https://foxglove.dev/product/integrations): ROS 1, ROS 2, MCAP, Protobuf, JSON, FlatBuffers, custom formats
+- [Pricing](https://foxglove.dev/pricing): Free, Pro, Enterprise, and Academic plans
+- [Download](https://foxglove.dev/download): Desktop app for Windows, macOS, and Linux
+
+## Solutions by Industry
+
+- [Autonomous Vehicles](https://foxglove.dev/solutions/autonomous-vehicles): Visualization and debugging for self-driving car development
+- [Automotive](https://foxglove.dev/solutions/automotive): ADAS and autonomous driving development
+- [Defense & Aerospace](https://foxglove.dev/solutions/defense-and-aerospace): Mission-critical robotics observability
+- [Logistics & Supply Chain](https://foxglove.dev/solutions/logistics-and-supply-chain): Warehouse and fulfillment robotics
+- [Manufacturing](https://foxglove.dev/solutions/manufacturing): Industrial automation and robotic arms
+- [Construction & Mining](https://foxglove.dev/solutions/construction-and-mining): Heavy equipment autonomy
+- [Agriculture & Forestry](https://foxglove.dev/solutions/agriculture-and-forestry): Autonomous agricultural robots
+- [Marine](https://foxglove.dev/solutions/marine): Maritime and underwater robotics
+- [Health & Wellbeing](https://foxglove.dev/solutions/health-and-wellbeing): Medical and wellness robotics
+
+## Solutions by Robot Type
+
+- [Autonomous Mobile Robot](https://foxglove.dev/solutions/autonomous-mobile-robot): AMR development and debugging
+- [Humanoid Robot](https://foxglove.dev/solutions/humanoid-robot): Humanoid development workflows
+- [Drone / UAV](https://foxglove.dev/solutions/drone): Aerial robotics data visualization
+- [Autonomous Underwater Vehicle](https://foxglove.dev/solutions/autonomous-underwater-vehicle): Subsea robotics
+- [Autonomous Surface Vehicle](https://foxglove.dev/solutions/autonomous-surface-vehicle): Surface marine vehicles
+- [Quadruped](https://foxglove.dev/solutions/quadruped): Legged robot development
+- [Autonomous Robotic Manipulation](https://foxglove.dev/solutions/autonomous-robotic-manipulation): Robotic arm and manipulation tasks
+
+## Documentation
+
+- [Docs](https://docs.foxglove.dev/docs): Full documentation site
+- [API Reference](https://docs.foxglove.dev/docs/api): REST API documentation
+- [CLI Reference](https://docs.foxglove.dev/docs/cli): Command-line interface
+- [SDK](https://docs.foxglove.dev/docs/sdk/introduction): Foxglove SDK for live visualization, logging, and remote monitoring
+- [Foxglove Agent Docs](https://docs.foxglove.dev/docs/foxglove-agent/introduction): Agent setup and configuration
+
+## Robotics Resources
+
+- [Foxglove vs RViz](https://foxglove.dev/robotics/foxglove-vs-rviz): Comparison with the ROS default visualizer
+- [RViz vs Foxglove](https://foxglove.dev/robotics/rviz-vs-foxglove): Detailed feature comparison with RViz
+- [Rerun vs Foxglove](https://foxglove.dev/robotics/rerun-vs-foxglove): Comparison with Rerun
+- [RViz vs Foxglove vs Rerun](https://foxglove.dev/robotics/rviz-vs-foxglove-vs-rerun): Three-way comparison of robotics visualization tools
+- [Best Rosbag Visualization Tools](https://foxglove.dev/robotics/the-best-rosbag-visualization-tools-in-2025): Guide to rosbag viewers
+- [Best Tools for Rosbag Visualization](https://foxglove.dev/robotics/the-best-tools-for-rosbag-visualization-in-2025): Comprehensive tool comparison
+- [Robotics Visualization Platforms](https://foxglove.dev/robotics/robotics-visualization-platforms-choosing-2025): How to choose a visualization platform
+- [Data Management Tools for Robotics](https://foxglove.dev/robotics/data-management-tools-for-robotics-a-2025-guide-comparison): Guide to robotics data management
+- [What is Robotics Data Management](https://foxglove.dev/robotics/what-is-robotics-data-management): Concept overview
+- [What is Robotics Data Analysis](https://foxglove.dev/robotics/what-is-robotics-data-analysis): Concept overview
+- [What is Multimodal Data Visualization](https://foxglove.dev/robotics/what-is-multimodal-data-visualization): Concept overview
+- [What is Teleoperation](https://foxglove.dev/robotics/what-is-teleoperation): Concept overview
+- [What is ROS](https://foxglove.dev/robotics/ros): Introduction to the Robot Operating System
+- [What is URDF](https://foxglove.dev/robotics/urdf): Unified Robot Description Format explained
+- [What is ROSBridge](https://foxglove.dev/robotics/rosbridge): ROSBridge protocol overview
+- [What is PX4 ULog](https://foxglove.dev/robotics/px4-ulog): PX4 flight log format
+- [Foxglove SDK Tutorial](https://foxglove.dev/robotics/foxglove-sdk-a-comprehensive-quick-start-tutorial): Quick-start guide
+
+## Blog
+
+- [Blog](https://foxglove.dev/blog): Product updates, tutorials, and community stories
+- [RSS Feed](https://foxglove.dev/rss.xml): Subscribe to the latest posts
+
+## Customer Stories
+
+- [All Customer Stories](https://foxglove.dev/customers): Case studies from leading robotics companies
+- [Shield AI](https://foxglove.dev/customers/shield-ai): How Shield AI transformed mission-critical development
+- [Wayve](https://foxglove.dev/customers/wayve): How Wayve learns faster with Foxglove
+- [Dexterity](https://foxglove.dev/customers/dexterity): How Dexterity saved hundreds of thousands in development costs
+- [Scout AI](https://foxglove.dev/customers/scout-ai): Accelerating defense robotics foundation-model development
+- [Saronic](https://foxglove.dev/customers/saronic): Autonomous surface vessel development
+- [Waabi](https://foxglove.dev/customers/waabi): Autonomous trucking development
+- [Aescape](https://foxglove.dev/customers/aescape): Wellness robotics
+- [Greenzie](https://foxglove.dev/customers/greenzie): Autonomous lawn care
+- [Chef Robotics](https://foxglove.dev/customers/chef-robotics): Food service automation
+- [Simbe](https://foxglove.dev/customers/simbe): Retail inventory robotics
+- [Yard Robotics](https://foxglove.dev/customers/yard-robotics): Outdoor autonomous logistics
+- [Third Wave Automation](https://foxglove.dev/customers/third-wave-automation): Warehouse forklift autonomy
+- [Reframe Systems](https://foxglove.dev/customers/reframe-systems): Construction robotics
+- [Square Robot](https://foxglove.dev/customers/square-robot): Tank inspection robotics
+- [Slip Robotics](https://foxglove.dev/customers/slip-robotics): Automated truck loading
+- [CCOM](https://foxglove.dev/customers/ccom): Marine research
+- [AIM](https://foxglove.dev/customers/aim): Autonomous inspection
+- [Tangram Vision](https://foxglove.dev/customers/tangram-vision): Sensor fusion
+- [Coco](https://foxglove.dev/customers/coco): Last-mile delivery
+- [Polymath Robotics](https://foxglove.dev/customers/polymath-robotics): Fleet management
+
+## Community
+
+- [GitHub](https://github.com/foxglove): Open-source repositories
+- [Discord](https://discord.gg/vUVAdFmMFM): Community chat
+- [MCAP Specification](https://mcap.dev): Open-source MCAP file format

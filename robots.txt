@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /design
+Disallow: /design/organisms
+
+Sitemap: https://foxglove.dev/sitemap-index.xml
